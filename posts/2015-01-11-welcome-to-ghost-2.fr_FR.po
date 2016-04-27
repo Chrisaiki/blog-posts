@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: 2015-08-16 18:37+0000\n"
 "Last-Translator: cgeek <cem.moreau@gmail.com>\n"
-"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"Language-Team: French <http://weblate.duniter.org/projects/duniter-blog/blog-"
 "welcome/fr_FR/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -20,26 +20,26 @@ msgstr ""
 
 #. type: Plain text
 #: 2015-01-11-welcome-to-ghost-2.md:2
-msgid "# Welcome to uCoin's blog!"
-msgstr "# Bienvenue sur le blog de uCoin !"
+msgid "# Welcome to duniter's blog!"
+msgstr "# Bienvenue sur le blog de duniter !"
 
 #. type: Plain text
 #: 2015-01-11-welcome-to-ghost-2.md:5
 msgid ""
-"There we are! uCoin finally has its own blog, which will also act as main "
+"There we are! duniter finally has its own blog, which will also act as main "
 "website. You will find here regular news about the project, events, and "
 "various analysis of existing and incoming currencies (crypto or not). Do not "
 "forget we also have:"
 msgstr ""
-"Nous y sommes! uCoin dispose enfin de son propre blog, qui servira également "
+"Nous y sommes! duniter dispose enfin de son propre blog, qui servira également "
 "de site web. Vous y trouverez des nouvelles régulières du projet, des "
 "événements, et des analyses variées des monnaies existantes ("
 "cryptographiques ou non). N'oubliez pas que nous disposons aussi :"
 
 #. type: Bullet: '*   '
 #: 2015-01-11-welcome-to-ghost-2.md:9
-msgid "A [forum](http://forum.ucoin.io) to have detailed discussions"
-msgstr "D'un [forum](http://forum.ucoin.io) pour des discussions détaillées"
+msgid "A [forum](http://forum.duniter.org) to have detailed discussions"
+msgstr "D'un [forum](http://forum.duniter.org) pour des discussions détaillées"
 
 #. type: Bullet: '*   '
 #: 2015-01-11-welcome-to-ghost-2.md:9
@@ -53,10 +53,10 @@ msgstr ""
 #. type: Bullet: '*   '
 #: 2015-01-11-welcome-to-ghost-2.md:9
 msgid ""
-"A [mailing list](https://groups.google.com/forum/?hl=fr#!forum/ucoin) you "
+"A [mailing list](https://groups.google.com/forum/?hl=fr#!forum/duniter) you "
 "can subscribe to for the biggest news"
 msgstr ""
-"D'une [mailing list](https://groups.google.com/forum/?hl=fr#!forum/ucoin) à "
+"D'une [mailing list](https://groups.google.com/forum/?hl=fr#!forum/duniter) à "
 "laquelle vous pouvez vous inscrire pour les plus importantes nouvelles"
 
 #. type: Plain text

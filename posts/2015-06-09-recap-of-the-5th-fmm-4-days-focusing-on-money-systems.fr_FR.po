@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2015-08-16 14:30-0400\n"
 "PO-Revision-Date: 2015-08-21 14:10+0000\n"
 "Last-Translator: Inso <insomniak.fr@gmail.com>\n"
-"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"Language-Team: French <http://weblate.duniter.org/projects/duniter-blog/blog-"
 "recap-5th-fmm-4-days-focusing-money-systems/fr_FR/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -29,29 +29,29 @@ msgstr ""
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:5
 msgid ""
 "There we are! **5th FMM is now over**. It has been [a very rich experience "
-"of 4 days](http://blog.ucoin.io/ucoin-at-the-5th-freedom-money-meeting/ "
-"\"uCoin at the 5th Freedom Money Meeting\") focusing on money systems. Below "
+"of 4 days](http://blog.duniter.org/duniter-at-the-5th-freedom-money-meeting/ "
+"\"duniter at the 5th Freedom Money Meeting\") focusing on money systems. Below "
 "is quick recap of what happened during these days for those of you who could "
-"not be here with us! ## First day: a dive into uCoin protocol"
+"not be here with us! ## First day: a dive into duniter protocol"
 msgstr ""
 "Ça y est ! Les **5èmes Rencontres des Monnaies Libres sont terminées**. Cela "
-"a été une [très riche expérience de 4 jours](http://blog.ucoin.io/ucoin-at-"
+"a été une [très riche expérience de 4 jours](http://blog.duniter.org/duniter-at-"
 "the-5th-freedom-money-meeting/) à se concentrer sur les systèmes monétaires. "
 "Voici ci-dessous un récapitulatif rapide de ce qui s'est passé durant ces "
 "jours pour ceux d'entre-vous qui ne sont pas venus ! ## Premier jour : "
-"plongeon dans le protocole uCoin"
+"plongeon dans le protocole duniter"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:7
 msgid ""
 "The very first day was a presentation made by your servitor (cgeek) about "
-"uCoin software & protocol. This was a travel across technical details about "
-"how is uCoin working, which are the rules and what is the life of currency "
-"propulsed by uCoin protocol."
+"duniter software & protocol. This was a travel across technical details about "
+"how is duniter working, which are the rules and what is the life of currency "
+"propulsed by duniter protocol."
 msgstr ""
 "Le tout premier jour était une présentation faite par votre serviteur (cgeek)"
-" à propos du logiciel uCoin et de son protocole. Nous nous sommes intéressés "
-"aux détails techniques sur le fonctionnement de uCoin, sur les règles qui "
+" à propos du logiciel duniter et de son protocole. Nous nous sommes intéressés "
+"aux détails techniques sur le fonctionnement de duniter, sur les règles qui "
 "régissent sont protocole monétaire."
 
 #. type: Plain text
@@ -60,7 +60,7 @@ msgid ""
 "The presentation was in French, but I took the time to translate it in case "
 "you wanted to read it. You can dowload the file "
 "here: [FMM5\\_Presentation\\_en](/files/FMM5_Presentation_en.odp \"FMM5 "
-"uCoin presentation by cgeek\")."
+"duniter presentation by cgeek\")."
 msgstr ""
 "La présentation était en Français, vous pouvez la retrouver ici : "
 "[Presentation_FMM5.odp](/files/Presentation_FMM5.odp)."
@@ -74,27 +74,27 @@ msgstr ""
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:13
-msgid "## Second day: more about CuteCoin & uCoinApps softwares!"
-msgstr "## Deuxième journée : les logiciels CuteCoin & uCoinApps !"
+msgid "## Second day: more about sakia & duniterApps softwares!"
+msgstr "## Deuxième journée : les logiciels sakia & duniterApps !"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:16
 msgid ""
 "This day was an opportunity for client softwares to be presented. Let's see "
-"the two firsts: *CuteCoin* and *uCoinApps*.  ### Cutecoin"
+"the two firsts: *sakia* and *duniterApps*.  ### Sakia"
 msgstr ""
 "Cette journée était une opportunité pour les logiciels client d'être "
-"présentés. Voyons les 2 premiers : *CuteCoin* et *uCoinApps*. ### CuteCoin"
+"présentés. Voyons les 2 premiers : *sakia* et *duniterApps*. ### sakia"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:18
 msgid ""
 "The morning was dedicated to "
-"[Cutecoin](https://github.com/ucoin-io/cutecoin), the very first client of "
-"uCoin software. We steped through:"
+"[Sakia](https://github.com/duniter/sakia), the very first client of "
+"duniter software. We steped through:"
 msgstr ""
-"La matinée était dédiée à [CuteCoin](https://github.com/ucoin-io/cutecoin), "
-"le tout premier client du logiciel uCoin. Nous avons vu :"
+"La matinée était dédiée à [sakia](https://github.com/duniter/sakia), "
+"le tout premier client du logiciel duniter. Nous avons vu :"
 
 #. type: Bullet: '*   '
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:23
@@ -119,12 +119,12 @@ msgstr "Et les fonctionnalités à venir"
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:25
 msgid ""
-"Currently, Cutecoin allows you to do all the core operations made "
-"possible by uCoin software. It is also the first allowing to have an "
+"Currently, Sakia allows you to do all the core operations made "
+"possible by duniter software. It is also the first allowing to have an "
 "overview of the network!"
 msgstr ""
-"Dès à présent, CuteCoin vous permet de réaliser tout les opérations de base "
-"proposées par le logiciel uCoin. C'est aussi le premier à proposer une vue "
+"Dès à présent, sakia vous permet de réaliser tout les opérations de base "
+"proposées par le logiciel duniter. C'est aussi le premier à proposer une vue "
 "du réseau !"
 
 #. type: Plain text
@@ -146,35 +146,35 @@ msgstr ""
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:36
 msgid ""
-"The presentation is also available for download here: [FMM5 Cutecoin "
-"Presentation (fr)](/files/FMM5 Cutecoin Presentation \\(fr\\).odp)."
+"The presentation is also available for download here: [FMM5 Sakia "
+"Presentation (fr)](/files/FMM5 Sakia Presentation \\(fr\\).odp)."
 msgstr ""
-"La présentation est aussi disponible au téléchargement ici : [FMM5 Cutecoin "
-"Presentation (fr)](/files/FMM5 Cutecoin Presentation \\(fr\\).odp)."
+"La présentation est aussi disponible au téléchargement ici : [FMM5 Sakia "
+"Presentation (fr)](/files/FMM5 Sakia Presentation \\(fr\\).odp)."
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:38
 msgid ""
-"[![cutecoin_pres](/content/images/2015/08/cutecoin_pres.png)](/files/FMM5 "
-"Cutecoin Presentation \\(fr\\).odp)"
+"[![sakia_pres](/content/images/2015/08/sakia_pres.png)](/files/FMM5 "
+"Sakia Presentation \\(fr\\).odp)"
 msgstr ""
-"[![cutecoin_pres](/content/images/2015/08/cutecoin_pres.png)](/files/FMM5 "
-"Cutecoin Presentation \\(fr\\).odp)"
+"[![sakia_pres](/content/images/2015/08/sakia_pres.png)](/files/FMM5 "
+"Sakia Presentation \\(fr\\).odp)"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:40
-msgid "### uCoinApps"
-msgstr "### uCoinApps"
+msgid "### duniterApps"
+msgstr "### duniterApps"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:42
 msgid ""
-"The afternoon was dedicated to uCoinApps, the little brother of Cutecoin as "
-"it is the second client for uCoin. uCoinApps is an Android application that "
+"The afternoon was dedicated to duniterApps, the little brother of Sakia as "
+"it is the second client for duniter. duniterApps is an Android application that "
 "allows you to:"
 msgstr ""
-"L'après-midi était dédiée à uCoinApps, le petit frère de CuteCoin étant "
-"donné qu'il s'agit du second client de uCoin. uCoinApps est une application "
+"L'après-midi était dédiée à duniterApps, le petit frère de sakia étant "
+"donné qu'il s'agit du second client de duniter. duniterApps est une application "
 "Android qui vous permet de :"
 
 #. type: Bullet: '*   '
@@ -211,31 +211,31 @@ msgstr "transférer de la monnaie"
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:51
 msgid ""
 "The application is available on [Google "
-"Play](https://play.google.com/store/apps/details?id=io.ucoin.ucoin). You may "
+"Play](https://play.google.com/store/apps/details?id=io.duniter.duniter). You may "
 "also find [a tutorial "
-"(french)](http://www.ucoin.fr/utiliser/ucoinapps-android/) for using it at "
-"[ucoin.fr](http://ucoin.fr)."
+"(french)](http://www.duniter.fr/utiliser/duniterapps-android/) for using it at "
+"[duniter.fr](http://duniter.fr)."
 msgstr ""
 "L'application est disponible sur [Google "
-"Play](https://play.google.com/store/apps/details?id=io.ucoin.ucoin). Vous "
-"pouvez aussi trouver [un tutoriel en français](http://www.ucoin.fr/utiliser"
-"/ucoinapps-android/) pour l'utiliser sur le site web "
-"[ucoin.fr](http://ucoin.fr)."
+"Play](https://play.google.com/store/apps/details?id=io.duniter.duniter). Vous "
+"pouvez aussi trouver [un tutoriel en français](http://www.duniter.fr/utiliser"
+"/duniterapps-android/) pour l'utiliser sur le site web "
+"[duniter.fr](http://duniter.fr)."
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:53
-msgid "![ucoin_apps](/content/images/2015/08/account_ucoinapps.png)"
-msgstr "![ucoin_apps](/content/images/2015/08/account_ucoinapps.png)"
+msgid "![duniter_apps](/content/images/2015/08/account_duniterapps.png)"
+msgstr "![duniter_apps](/content/images/2015/08/account_duniterapps.png)"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:55
 msgid ""
 "The author of the application also made a presentation avaialble for "
-"download: [FMM5 uCoinApps Presentation "
-"(fr)](/files/FMM5-uCoinApps-Presentation-fr.odp).  "
+"download: [FMM5 duniterApps Presentation "
+"(fr)](/files/FMM5-duniterApps-Presentation-fr.odp).  "
 msgstr ""
 "L'auteur de l'application a également réalisé une présentation disponible au "
-"téléchargement : [FMM5 uCoinApps Presentation (fr)](/files/FMM5-uCoinApps-"
+"téléchargement : [FMM5 duniterApps Presentation (fr)](/files/FMM5-duniterApps-"
 "Presentation-fr.odp)."
 
 #. type: Plain text
@@ -273,8 +273,8 @@ msgstr ""
 
 #. type: Bullet: '*   '
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:62
-msgid "Freedom Money system (the one used by uCoin) in the afternoon"
-msgstr "Le système de Monnaie Libre (celui réalisé par uCoin) l'après-midi"
+msgid "Freedom Money system (the one used by duniter) in the afternoon"
+msgstr "Le système de Monnaie Libre (celui réalisé par duniter) l'après-midi"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:64
@@ -417,15 +417,15 @@ msgstr "### Inscriptions à la monnaie meta_brouzouf"
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:90
 msgid ""
-"The afternoon was the occasion for people to try Cutecoin and [subscribe to "
+"The afternoon was the occasion for people to try Sakia and [subscribe to "
 "metab_brouzouf "
-"currency](http://forum.ucoin.io/t/subscribing-to-meta-brouzouf-testing-currency)! "
-"As you can see, we now are about 23 active members testing uCoin:"
+"currency](http://forum.duniter.org/t/subscribing-to-meta-brouzouf-testing-currency)! "
+"As you can see, we now are about 23 active members testing duniter:"
 msgstr ""
-"L'après-midi était l'occasion pour les personnes d'essayer CuteCoin et ["
-"s'inscrire à la monnaie meta_brouzouf](http://forum.ucoin.io/t/subscribing-"
+"L'après-midi était l'occasion pour les personnes d'essayer sakia et ["
+"s'inscrire à la monnaie meta_brouzouf](http://forum.duniter.org/t/subscribing-"
 "to-meta-brouzouf-testing-currency) ! Comme vous pouvez le voir, nous sommes "
-"maintenant 23 membres actifs à tester uCoin :"
+"maintenant 23 membres actifs à tester duniter :"
 
 #. type: Plain text
 #: 2015-06-09-recap-of-the-5th-fmm-4-days-focusing-on-money-systems.md:92
@@ -452,7 +452,7 @@ msgstr "## Conclusion"
 msgid ""
 "This 1st edition of 2015 FMM was a very successful meeting with a lot of new "
 "people met and introduced to money codes, many technical details were "
-"explained and **the very first client applications** Cutecoin & uCoinApps "
+"explained and **the very first client applications** Sakia & duniterApps "
 "have been presented and tested by final users! What will await us for [next "
 "FMM in Valence during November "
 "2015](https://www.google.fr/maps/place/Valence/@44.8679005,4.9135516,11z/data=!4m2!3m1!1s0x47f55799c63221c7:0x408ab2ae4bfb580)? Coming "
@@ -461,7 +461,7 @@ msgstr ""
 "Cette 1ère édition des Rencontres des Monnaies Libres 2015 fut un franc "
 "succès avec beaucoup de nouvelles personnes rencontrées et sensibilisées aux "
 "codes monétaires, beaucoup de détails techniques ont pu être expliqués et **"
-"les toutes premières applications clientes** CuteCoin et uCoinApps ont été "
+"les toutes premières applications clientes** sakia et duniterApps ont été "
 "présentées et testées par des utilisateurs finaux ! Que nous attend-il pour "
 "les [prochaines Rencontres des Monnaies Libres à Valence en Novembre 2015](ht"
 "tps://www.google.fr/maps/place/Valence/@44.8679005,4.9135516,11z/data=!4m2!3m"
