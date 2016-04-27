@@ -24,9 +24,9 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-12-08-publiez-un-article.md:4
 msgid ""
-"Le blog ucoin.io a subit depuis peu une transformation technique : désormais "
+"Le blog duniter.org a subit depuis peu une transformation technique : désormais "
 "[l'intégralité des articles du "
-"blog](https://github.com/ucoin-io/blog-posts/tree/master/posts) est mise à "
+"blog](https://github.com/duniter/blog-posts/tree/master/posts) est mise à "
 "disposition sur GitHub."
 msgstr ""
 
@@ -41,7 +41,7 @@ msgstr ""
 #. type: Bullet: '* '
 #: posts/2015-12-08-publiez-un-article.md:10
 msgid ""
-"de [traduire](http://weblate.ucoin.io/projects/ucoin-blog/) les articles "
+"de [traduire](http://weblate.duniter.org/projects/duniter-blog/) les articles "
 "avec des outils comme Weblate"
 msgstr ""
 
@@ -150,14 +150,14 @@ msgstr ""
 #: posts/2015-12-08-publiez-un-article.md:40
 msgid ""
 "> Si vous avez déjà forké le dépôt principal "
-"[ucoin-io/blog-posts](https://github.com/ucoin-io/blog-posts), vous pouvez "
+"[duniter/blog-posts](https://github.com/duniter/blog-posts), vous pouvez "
 "passer cette étape."
 msgstr ""
 
 #. type: Plain text
 #: posts/2015-12-08-publiez-un-article.md:42
 msgid ""
-"Rendez-vous à l'adresse https://github.com/ucoin-io/blog-posts. Cliquez sur "
+"Rendez-vous à l'adresse https://github.com/duniter/blog-posts. Cliquez sur "
 "le bouton « Fork » en dans le coin supérieur droit de la page :"
 msgstr ""
 
@@ -247,7 +247,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2015-12-08-publiez-un-article.md:71
 msgid ""
-"L'article sera alors disponible à l'adresse http://fr.ucoin.io/bonne-annee/, "
+"L'article sera alors disponible à l'adresse http://fr.duniter.org/bonne-annee/, "
 "et sera marqué comme ayant été publié le 31/12/2015."
 msgstr ""
 

@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2015-08-16 15:50+0200\n"
 "PO-Revision-Date: 2015-08-16 14:18+0000\n"
 "Last-Translator: cgeek <cem.moreau@gmail.com>\n"
-"Language-Team: French <http://weblate.ucoin.io/projects/ucoin-blog/blog-"
+"Language-Team: French <http://weblate.duniter.org/projects/duniter-blog/blog-"
 "home/fr_FR/>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
@@ -51,5 +51,5 @@ msgstr ""
 #. type: Content of: <div><p><a>
 #: posts/featured.html:30
 #, no-wrap
-msgid "      Follow @ucoin_io"
-msgstr "      Suivre @ucoin_io"
+msgid "      Follow @duniter_io"
+msgstr "      Suivre @duniter_io"
