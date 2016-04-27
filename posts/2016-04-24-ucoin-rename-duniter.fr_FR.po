@@ -142,7 +142,7 @@ msgstr ""
 #. type: Plain text
 #: posts/2016-04-24-ucoin-rename-duniter.md:34
 msgid ""
-"Un taux de croissance de 10 % fait grossir les nombres de 0,8 % par "
+"Un taux de croissance annuel de 10 % correspond a une augmentation de 0,8 % par "
 "mois. Dans ce référentiel, il n'est pas aisé de comparer des valeurs sur des "
 "années d'écarts en comparant ces nombres. Mais dans notre logiciel, les "
 "individus émettent un dividende universel (abrégé « DU »). Celui-ci est "
